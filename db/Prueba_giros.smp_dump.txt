@@ -1,0 +1,7 @@
+
+State Machine - |Prueba_giros|control_motor:inst|fstate
+Name fstate.Derecho_giroIzq fstate.Gira_Izq_90 fstate.Gira_Der_90 fstate.Derecho_giroDer 
+fstate.Derecho_giroDer 0 0 0 0 
+fstate.Gira_Der_90 0 0 1 1 
+fstate.Gira_Izq_90 0 1 0 1 
+fstate.Derecho_giroIzq 1 0 0 1 

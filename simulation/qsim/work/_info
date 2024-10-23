@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LSC\Desktop\laberinto_pruebas\Prueba_giros_conPINES\simulation\qsim
+vPrueba_giros
+Z1 !s100 j;5;Wj=]B8=YaSX0j>b0z2
+Z2 Ib49o^DlHf3_iIgia:40::3
+Z3 VHJ?oa^UAcij<<em9>9`lQ3
+Z4 dC:\Users\LSC\Desktop\laberinto_pruebas\Prueba_giros_conPINES\simulation\qsim
+Z5 w1729712971
+Z6 8Prueba_giros.vo
+Z7 FPrueba_giros.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Prueba_giros.vo|
+Z10 o-work work -O0
+Z11 n@prueba_giros
+!i10b 1
+!s85 0
+Z12 !s108 1729712973.306000
+Z13 !s107 Prueba_giros.vo|
+!s101 -O0
+vPrueba_giros_vlg_check_tst
+!i10b 1
+!s100 YbiE`3T@R_]kC;P]D:No^1
+IC>RhO93nezERHW_njeP5N3
+Z14 VVT83EGAe_`;K]V:Ao=CAI0
+R4
+Z15 w1729712970
+Z16 8Prueba_giros.vt
+Z17 FPrueba_giros.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z18 !s108 1729712973.400000
+Z19 !s107 Prueba_giros.vt|
+Z20 !s90 -work|work|Prueba_giros.vt|
+!s101 -O0
+R10
+Z21 n@prueba_giros_vlg_check_tst
+vPrueba_giros_vlg_sample_tst
+!i10b 1
+Z22 !s100 Qz60S7V3M2geb74XKBg;43
+Z23 IUV35@_m4m_hD3]eYnWElI2
+Z24 V7=Tl;nQ7HBYRJBb5W>m]90
+R4
+R15
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z25 n@prueba_giros_vlg_sample_tst
+vPrueba_giros_vlg_vec_tst
+!i10b 1
+!s100 24zBUc]0>W?7:TI63_c790
+IGU<AYRkKA6IJA4z?dn]`f3
+Z26 VZQ06UliV`P<j`O>zH=TDL1
+R4
+R15
+R16
+R17
+L0 325
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z27 n@prueba_giros_vlg_vec_tst
